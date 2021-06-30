@@ -35,6 +35,7 @@ export default {
                 price: 80,
                 spaces: 5,
                 image: "english.jpg"
+                
             },
             {
                 id: 103,
